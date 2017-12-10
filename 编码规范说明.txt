@@ -1,0 +1,36 @@
+编码规范说明
+
+1.一定要有注释
+2.一定要有同意的命名规范
+文件名，主要是类文件，类名.class.php,如Mysql.php,不是类，则不加class
+类名，方法没那个，属性名
+
+类名 使用大驼峰式，如GoodsController,首字母大写，对应的文件名是GoodsController.class.php
+
+方法名 使用小驼峰式 如addAction
+
+属性名 使用小驼峰式，有时候也会对private的属性前面加一个下划线（推荐）
+
+具体编写的时候，写控制器和模型的时候，都需要指明，controller和model
+
+函数名
+自定义的普通函数，不是类中的方法，建议遵循php本身的写法，如var_dump,is_array下划线样式，还有一种方式imagecreatetruecolor,全小写
+
+3.要区分大小写
+Lamp组合，linux系统式严格区分大小写的
+
+4.注意缩进，代码对齐
+
+
+
+
+
+
+
+
+
+
+
+
+
+

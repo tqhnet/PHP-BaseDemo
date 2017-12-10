@@ -1,0 +1,4 @@
+商城api
+启动页 http://localhost/shop/index.php
+路由方法 http://localhost/shop/index.php?p=admin
+
